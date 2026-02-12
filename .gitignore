@@ -1,3 +1,5 @@
+node_modules/
+
 # 認証情報・成果物はGit管理除外
 /storageState/*
 /assets/*
